@@ -14,6 +14,7 @@ Census data is very simple data that identifies the member.
       | account administrator | people who will upload census data and can see statistics about the members | 
       | client adminstrator   | can access only their client account information                            | 
       | member                | can access only their portal account                                        | 
+      | whatever              | etc                                                                         |
   
   Scenario Outline: Census Data
     Given a new client
